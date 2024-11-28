@@ -1,0 +1,15 @@
+# # PostV1TfaProviderAuthyAuthenticateRequest
+
+
+## Properties 
+
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**Username**| **string** |   |
+**Password**| **string** |   |
+**Otp**| **string** |   |
+
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
+
